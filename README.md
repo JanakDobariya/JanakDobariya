@@ -46,7 +46,7 @@
   </summary>
   
 - 🐍 Python Developer skilled in Web/Data Scraping and Selenium automation.
-- 🎓 I’m currently in the third year of pursuing BTech in Computer Science Engineering with a focus on AI and ML.
+- 🎓 I’m currently in the forth year of pursuing BTech in Computer Science Engineering with a focus on AI and ML.
 - 🔥 Passionate about pushing boundaries and finding innovative solutions.
 - 🤝 Thrives on collaborating with diverse teams for efficient goal achievement.
   

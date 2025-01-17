@@ -12,7 +12,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/janakdobariya/" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/70a5fd"/></a>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/JanakDobariya/" target="_blank">
     <img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>

@@ -1,134 +1,173 @@
-<p align="center">
-  <a href="https://github.com/JanakDobariya/" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Janak%20Dobariya&font=Fira%20Code&repeat=false&center=true&width=450&height=45&color=70a5fd&vCenter=true&pause=1000&size=28&duration=1" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d9f5&height=200&section=header&text=Janak%20Dobariya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20LLMs%20%7C%20Automation&descAlignY=58&descSize=18&descColor=ffffff" />
+
+<a href="https://github.com/JanakDobariya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+intelligent+systems+with+AI+%F0%9F%A4%96;NLP+%7C+LLMs+%7C+Deep+Learning+%7C+Automation;Currently+%40+Trier+University%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakdobariya/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanakDobariya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5a0?style=for-the-badge&logo=vercel&logoColor=black)](https://janakdobariya.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejanak.dobariya@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JanakDobariya&style=for-the-badge&color=00f5a0&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/JanakDobariya?style=for-the-badge&color=00f5a0&labelColor=0d0d14&label=FOLLOWERS)](https://github.com/JanakDobariya?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/JanakDobariya?style=for-the-badge&color=00f5a0&labelColor=0d0d14&label=STARS)](https://github.com/JanakDobariya?tab=repositories&sort=stargazers)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class JanakDobariya:
+    def __init__(self):
+        self.name        = "Janak Dobariya"
+        self.location    = "Trier, Germany 🇩🇪"
+        self.education   = "M.Sc. Computer Science (NLP) — Trier University"
+        self.prev_degree = "B.E. CS & Engineering (AI & ML) — GTU, 9.22 CGPA"
+        self.experience  = "Python Intern @ Oceanmtech Pvt Ltd"
+        self.focus       = ["NLP", "LLMs", "Deep Learning", "AI Automation"]
+        self.languages   = ["Python", "JavaScript", "HTML", "CSS", "SQL"]
+        self.portfolio   = "https://janakdobariya.vercel.app/"
+
+    def current_goal(self):
+        return "Building production-grade AI systems that solve real-world problems 🚀"
+```
+
+---
+
+## 🚀 Tech Stack & Skills
+
+<div align="center">
+
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧠 NLP & LLMs
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GROQ](https://img.shields.io/badge/GROQ-F54D27?style=for-the-badge&logo=groq&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚡ Automation & Scraping
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🚀 Deployment & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠 Stack |
+|-----------|---------------|---------|
+| [**Narad Muni Chatbot**](https://github.com/JanakDobariya/Narad-Muni-chatbot) | Interactive AI chatbot using GROQ's Llama 3 (70B) with persistent chat history | `Streamlit` `GROQ` `Llama 3` `Python` |
+| [**YouTube AI Assistant**](https://github.com/JanakDobariya/YouTube-Assistant) | Extracts, summarizes & answers questions about YouTube videos using RAG | `HuggingFace` `Gemini Pro` `FAISS` `Streamlit` |
+| [**Wikipedia Retriever**](https://github.com/JanakDobariya) | LangChain-powered tool to fetch & summarize Wikipedia content for research | `LangChain` `WikipediaRetriever` `Python` |
+| [**WhatsAutoBot**](https://github.com/JanakDobariya) | Automates WhatsApp Web — reads Excel lists, verifies contacts, identifies businesses | `Selenium` `Python` `openpyxl` |
+| [**Amazon Scraping**](https://github.com/JanakDobariya/Amazon-Scraping) | Scrapes Amazon product data at scale with structured output | `BeautifulSoup` `Requests` `Python` |
+| [**Twitter Sentiment Classifier**](https://github.com/JanakDobariya/twitter-sentiment-classifier) | NLP model that classifies tweet sentiment with high accuracy | `NLTK` `Scikit-learn` `Python` |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/JanakDobariya?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-00f5a0?style=for-the-badge&logoColor=black&logo=repo"/>
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/JanakDobariya/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" /></a>
-</p>
+---
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/janakdobariya/" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/JanakDobariya/" target="_blank">
-    <img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instacapture.mrsoni.me/@JanakDobariya" target="_blank">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/70a5fd"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:janakdobariya31@gmail.com" target="_blank">
-    <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
- </p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanakDobariya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=00f5a0&icon_color=00d9f5&text_color=e8e8f0&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanakDobariya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=00f5a0&text_color=e8e8f0"/>
 
 <br/>
 
-<!-- Social badges section- https://github.com/prathmeshsoni/Custom-Icon-Badges -->
-<p align="center">
-  <a href="https://github.com/JanakDobariya?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icons-badges.vercel.app/github/stars/?username=JanakDobariya"/></a>
-  <a href="https://github.com/JanakDobariya?tab=followers" target="_blank">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icons-badges.vercel.app/github/followers/?username=JanakDobariya"/></a>
-  <a href="https://github.com/JanakDobariya" target="_blank">
-    <img alt="views" title="GitHub profile views" src="https://custom-icons-badges.vercel.app/github/visitors/?username=JanakDobariya"/></a>
-</p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=JanakDobariya&theme=tokyonight&hide_border=true&background=0d0d14&ring=00f5a0&fire=00d9f5&currStreakLabel=00f5a0"/>
 
 <br/>
 
-<details open> 
-  <summary>
-    <h2>
-        📖 About Me
-    </h2>
-  </summary>
-  
-- 🐍 Python Developer skilled in Web/Data Scraping and Selenium automation.
-- 🎓 I have completed my bachelors in Computer Science Engineering with the focus on AI and ML.
-- 🔥 Passionate about pushing boundaries and finding innovative solutions.
-- 🤝 Thrives on collaborating with diverse teams for efficient goal achievement.
-  
-</details>
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=JanakDobariya&bg_color=0d0d14&color=00f5a0&line=00d9f5&point=ffffff&hide_border=true"/>
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+</div>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <p align="left">
-     <a href="https://github.com/JanakDobariya/JanakDobariya" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=JanakDobariya&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
-    <a href="https://github.com/JanakDobariya/5bestincity-scraping" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=5bestincity-scraping&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a
-    <a href="https://github.com/JanakDobariya/Amazon-Scraping" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=Amazon-Scraping&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-   <a href="https://github.com/JanakDobariya/depop.com-scraping" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=depop.com-scraping&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
-    <a href="https://github.com/JanakDobariya/titanic-streamlit-app" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=titanic-streamlit-app&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-   <a href="https://github.com/JanakDobariya/twitter-sentiment-classifier" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=twitter-sentiment-classifier&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
-    <a href="https://github.com/JanakDobariya/Narad-Muni-chatbot" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=Narad-Muni-chatbot&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-   <a href="https://github.com/JanakDobariya/YouTube-Assistant" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JanakDobariya&repo=YouTube-Assistant&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
-    
-  </p>
+---
 
-  <a href="https://github.com/JanakDobariya?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+## 🌍 Languages
 
-<details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<div align="center">
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+| Language | Level | Proficiency |
+|----------|-------|-------------|
+| 🇩🇪 German | Beginner (A1) | `⬛⬜⬜⬜⬜` |
+| 🇬🇧 English | Advanced (C1) | `⬛⬛⬛⬛⬜` |
+| 🇮🇳 Hindi | Native (C2) | `⬛⬛⬛⬛⬛` |
+| 🏡 Gujarati | Native (C2) | `⬛⬛⬛⬛⬛` |
 
-  <p>
-      <a href="https://github.com/search?q=user%3AJanakDobariya+language%3Ac" target="_blank"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AJanakDobariya+language%3Acss" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AJanakDobariya+language%3Ahtml" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AJanakDobariya+language%3Apython" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+</div>
 
-  </p>
+---
 
-  <h3>🧰 Frameworks and Libraries</h3>
+## 🎓 Education
 
-  <p>
-      <a href="#" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  </p>
+```
+🎓  M.Sc. Computer Science — NLP        │  Trier University, Germany        │  2025 – Present
+🎓  B.E. CS & Engineering (AI & ML)     │  Gujarat Tech. University, India  │  2022 – 2025  │  9.22 CGPA
+🎓  Diploma in Computer Engineering     │  Gujarat Tech. University, India  │  2019 – 2022  │  7.61 CGPA
+```
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+---
 
-  <p>
-      <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Pythonanywhere" src="https://img.shields.io/badge/Pythonanywhere-1d9fd7.svg?logo=Pythonanywhere&logoColor=white"></a>
-  </p>
+## 💼 Work Experience
 
-  <h3>💻 Software and Tools</h3>
+```
+⚡  Python Intern @ Oceanmtech Pvt Ltd  │  Jan 2024 – May 2025
+    ├── Web scraping with Selenium, BeautifulSoup & Requests
+    ├── Sentiment analysis & price optimization ML projects
+    ├── LLMs & LangChain for AI-driven solutions
+    └── Contributed to live production Python projects
+```
 
-  <p>
-      <a href="#" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43b02a.svg?logo=selenium&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#" target="_blank"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-0dbdf5?logo=Pycharm&logoColor=white"></a>
-  </p>
-</details>
+---
 
-<details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+<div align="center">
 
-  <h3>🔥 Streak Stats</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9f5,100:00f5a0&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/JanakDobariya" target="_blank">
-      <img title="JanakDobariya's Streak 🔥" alt="JanakDobariya's Streak 🔥" src="https://nirzak-streak-stats.vercel.app/?user=JanakDobariya&theme=tokyonight"/>
-    </a>
-  </p>
-
-  <h3>📈 GitHub Activity Graph</h3>
-
-  <a href="https://github.com/JanakDobariya" target="_blank"><img alt="JanakDobariya's Activity Graph 📈" src="https://github-readme-activity-graph.vercel.app/graph/?username=JanakDobariya&bg_color=1F222E&color=70a5fd&line=bf91f3&point=FFFFFF&hide_border=true" /></a>
-      
-</details>
+</div>

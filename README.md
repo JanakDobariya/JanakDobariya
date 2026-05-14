@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d9f5&height=200&section=header&text=Janak%20Dobariya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20LLMs%20%7C%20Automation&descAlignY=58&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,100:0d0d14&height=200&section=header&text=Janak%20Dobariya&fontSize=60&fontColor=00f5a0&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20LLMs%20%7C%20Automation&descAlignY=58&descSize=18&descColor=00d9f5" />
 
 <a href="https://github.com/JanakDobariya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+intelligent+systems+with+AI+%F0%9F%A4%96;NLP+%7C+LLMs+%7C+Deep+Learning+%7C+Automation;Currently+%40+Trier+University%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
@@ -168,6 +168,6 @@ class JanakDobariya:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9f5,100:00f5a0&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,100:050508&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=20&fontColor=00f5a0&fontAlignY=65"/>
 
 </div>
